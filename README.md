@@ -75,7 +75,15 @@ The **Messaging-MS** microservice is dedicated to managing communication within 
 
 5. **Logging and Tracking:**  
    - Maintain logs of sent emails.  
-   - Track email delivery and responses.  
+   - Track email delivery and responses.
+   
+## Installation
+
+To set up MESSAGING-MS locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/fatimaelasri01/Academic-MS.git
 
 ## Repository Links
 
