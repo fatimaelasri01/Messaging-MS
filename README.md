@@ -83,7 +83,7 @@ To set up MESSAGING-MS locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/fatimaelasri01/Academic-MS.git
+   git clone https://github.com/fatimaelasri01/Messaging-MS.git
 
 ## Repository Links
 
